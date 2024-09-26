@@ -19,3 +19,4 @@ task_3/ = Create a type RowID and set it equal to number. Create an interface Ro
 task_4/ = Create a file Teacher.ts and write a Teacher interface in a namespace named Subjects. Create a file Subject.ts and write a Subject class in the same namespace named Subjects. Create a file Cpp.ts and make the following modifications in the same namespace. Create a file React.ts and write a React Class in the same namespace. Create a file Java.ts and write a Java Class in the same namespace.
 
 task_5/ = Create two interfaces MajorCredits and MinorCredits. Create two functions named sumMajorCredits and sumMinorCredits.
+
